@@ -1,0 +1,19 @@
+h1{
+  color:green;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+  color:orange;
+}
+
+.test{
+  color:red;
+}
+
+#turtle{
+  color:purple;
+}
+
+#badabing{
+  font-size:40px;
+}
